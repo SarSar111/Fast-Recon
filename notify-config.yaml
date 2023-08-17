@@ -1,0 +1,6 @@
+discord:
+  - id: 'recon'
+    discord_channel: 'general'
+    discord_username: 'Fast Recon'
+    discord_format: '{{data}}'
+    discord_webhook_url: 'https://discord.com/api/webhooks/1141274103991509032/7qGNFJpIrWxdRh8ocPR7arVYEZ17Y67g4arLSDQFH4ktH4myJdecFfCfq14yMLsc5KRG'
